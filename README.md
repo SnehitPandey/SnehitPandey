@@ -28,12 +28,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnehitPandey&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SnehitPandey&theme=javascript-dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+  <img src="https://github-readme-stats.vercel.app/api?SnehitPandey018&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehitPandey&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehitPandey&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehitPandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SnehitPandey&theme=tokyonight&no-frame=true&column=6" width="90%" />
 </p>
 
 
