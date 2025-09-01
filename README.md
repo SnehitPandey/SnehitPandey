@@ -28,7 +28,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?SnehitPandey018&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?SnehitPandey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehitPandey&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
 </p>
 
