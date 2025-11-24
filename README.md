@@ -11,7 +11,7 @@
 
 ### 🔗 Portfolio
 
-//> 🎯 Explore my work and projects at 👉 [Portfolio Website](Updating soon...)  
+//> 🎯 Explore my work and projects at 👉 [<p src="https://snehitpandey.github.io/Portfolio"> Portfolio Website </p>](React remake soon!!)  
 > 📌 Don't forget to check out my GitHub activity below 👇
 
 ---
