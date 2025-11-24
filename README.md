@@ -11,7 +11,7 @@
 
 ### 🔗 Portfolio
 
-//> 🎯 Explore my work and projects at 👉 [<a src="https://snehitpandey.github.io/Portfolio"> Portfolio Website </a>](React remake soon!!)  
+//> 🎯 Explore my work and projects at 👉 [Portfolio Website](https://snehitpandey.github.io/Portfolio)](React remake soon!!)  
 > 📌 Don't forget to check out my GitHub activity below 👇
 
 ---
