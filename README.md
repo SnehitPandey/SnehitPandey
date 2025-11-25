@@ -44,7 +44,7 @@
 ### 📫 Let's Connect
 
 - 📧 Gmail: **snehit2004@gmail.com**
-- 🌍 Portfolio: [updating soon/)
+- 🌍 Portfolio: [(https://snehitpandey.github.io/Portfolio)]
 
 ---
 
