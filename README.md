@@ -31,10 +31,11 @@ Building clean web applications and continuously learning new technologies.
 
 🔗 **Portfolio Website**
 
-👉 https://snehitpandey.github.io/Portfolio
+updated 
+👉 https://snehitpandey.netlify.app/
 
-*(React version coming soon!)*
-
+v1
+👉 https://snehitpandey.github.io/Portfolio_v1
 ---
 
 ## 🛠 Tech Stack
