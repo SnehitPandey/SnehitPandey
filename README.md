@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">  
-  [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/snehitpandey/)
+<a href="https://www.linkedin.com/in/snehitpandey/" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn Portfolio Badge">
+</a>
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" style="border:none;" />
   </a>
 </p>
