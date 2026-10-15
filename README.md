@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">  
-  <a href="https://www.linkedin.com/in/snehitpandey/">
+  [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/snehitpandey/)
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" style="border:none;" />
   </a>
 </p>
